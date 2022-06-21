@@ -1,3 +1,4 @@
+#ВТФ
 import gmdapi
 
 ng = gmdapi.NewGrounds()
